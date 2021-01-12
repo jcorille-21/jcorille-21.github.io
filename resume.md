@@ -15,7 +15,7 @@ jcorille@uw.edu
 
 *Front of House, June 2018 - January 2020*
 
-- Served customers, took orders and closed down the restaurant
+- Served customers, took orders and closed down the restaurant.
 - Gained teamwork skills by working with coworkers to get orders done in a timely manner
 
 ## Taco Time NW
