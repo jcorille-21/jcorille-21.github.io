@@ -43,7 +43,7 @@ jcorille@uw.edu
 *Associates of Arts and Sciences, September 2016 to June 2018*
 
 [Link to Bellevue College website](https://www.bellevuecollege.edu/)
-![Bellevue College logo](https://www.bellevuecollege.edu/wp-content/uploads/sites/23/2019/12/PRI_BC_Bulldog-Head_CMYK.png =360x497)
+<img src="https://www.bellevuecollege.edu/wp-content/uploads/sites/23/2019/12/PRI_BC_Bulldog-Head_CMYK.png" width="360" height="497" />
 
 - Cumulative GPA: 3.66/4.0
 - Running Start in High School
