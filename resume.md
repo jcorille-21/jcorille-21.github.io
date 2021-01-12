@@ -32,7 +32,7 @@ jcorille@uw.edu
 *Bachelor of Arts in Geography Data Science, Minor in Informatics, September 2018 to present*
 
 [Link to University of Washington website](https://www.washington.edu/)
-[University of Washington logo](https://alphagammadelta.org/wp-content/uploads/2017/01/U-Washington.jpg)
+![University of Washington logo](https://alphagammadelta.org/wp-content/uploads/2017/01/U-Washington.jpg)
 
 - Major GPA: 3.87/4.0
 - Dean's List: Autumn 2020, Winter 2020, Spring 2019, Autumn 2018
@@ -43,7 +43,7 @@ jcorille@uw.edu
 *Associates of Arts and Sciences, September 2016 to June 2018*
 
 [Link to Bellevue College website](https://www.bellevuecollege.edu/)
-[Bellevue College logo](https://www.bellevuecollege.edu/wp-content/uploads/sites/23/2019/12/PRI_BC_Bulldog-Head_CMYK.png =360x497)
+![Bellevue College logo](https://www.bellevuecollege.edu/wp-content/uploads/sites/23/2019/12/PRI_BC_Bulldog-Head_CMYK.png =360x497)
 
 - Cumulative GPA: 3.66/4.0
 - Running Start in High School
